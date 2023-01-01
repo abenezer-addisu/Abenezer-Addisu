@@ -10,16 +10,17 @@
 
 ### 📫 How to reach me:
 - Email : abenezeraddisu24@gmail.com
-- Twitter : [abenezer-addisu](https://twitter.com/AbigiyaTY)
+- Twitter : [abenezer-addisu](https://twitter.com/AbiamW)
 - Linkdin : [abenezer-addisu](https://www.linkedin.com/in/abenezer-addisu)
-- Portfolio : [abenezer-addisu.com](https://www.abigiyatadesse.com/) 
+- Portfolio : [abenezer-addisu.com](https://abiam-technology.com/) 
 
-- 🌱 I’m currently learning **React Native, Python MangoDB**
+- 🌱 I’m currently learning full stack software development
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abenezer-addisu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abenezer-addisu" height="30" width="40" /></a>
-</p>
+- ❤️ I love solving algorithms, and building fun experiments.
+
+- 💻 I'm available for hire, and also open to new opportunities
+
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -51,7 +52,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abenezer-addisu&show_icons=true&locale=en&layout=compact" alt="abenezer-addisu" /></p>
 
-<br>
+<br/>
+<hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abenezer-addisu&show_icons=true&locale=en" alt="abenezer-addisu" /></p>
 
