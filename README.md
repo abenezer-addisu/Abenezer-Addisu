@@ -12,7 +12,7 @@
 - Email : abenezeraddisu24@gmail.com
 - Twitter : [abenezer-addisu](https://twitter.com/AbiamW)
 - Linkdin : [abenezer-addisu](https://www.linkedin.com/in/abenezer-addisu)
-- Portfolio : [abenezer-addisu.com](https://abiam-technology.com/) 
+- Portfolio : [abenezer-addisu.com](https://abenezer-addisu.github.io/portfolio) 
 
 - 🌱 I’m currently learning full stack software development
 
@@ -52,8 +52,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abenezer-addisu&show_icons=true&locale=en&layout=compact" alt="abenezer-addisu" /></p>
 
-<br/>
-<hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abenezer-addisu&show_icons=true&locale=en" alt="abenezer-addisu" /></p>
 
