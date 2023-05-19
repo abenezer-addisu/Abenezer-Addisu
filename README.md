@@ -1,4 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Abenezer Addisu</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
@@ -8,13 +11,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abenezer-addisu&label=Profile%20views&color=0e75b6&style=flat" alt="abenezer-addisu" /> </p>
 
 
+
 ### 📫 How to reach me:
 - Email : abenezeraddisu24@gmail.com
 - Twitter : [abenezer-addisu](https://twitter.com/AbiamW)
 - Linkdin : [abenezer-addisu](https://www.linkedin.com/in/abenezer-addisu)
 - Portfolio : [abenezer-addisu.com](https://abenezer-addisu.github.io/portfolio) 
 
-- 🌱 I’m currently learning full stack software development
+ &nbsp;
+
+## What I'm doing now
+
+
+- 🌱 Enhancing my full-stack developer skills everyday
 
 - ❤️ I love solving algorithms, and building fun experiments.
 
@@ -52,7 +61,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abenezer-addisu&show_icons=true&locale=en&layout=compact" alt="abenezer-addisu" /></p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abenezer-addisu&show_icons=true&locale=en" alt="abenezer-addisu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abenezer-addisu&" alt="abenezer-addisu" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abenezer-addisu&theme=transparent&border_radius=7.6)](https://git.io/streak-stats)
+
+
