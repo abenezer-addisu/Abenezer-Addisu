@@ -4,7 +4,22 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Abenezer Addisu</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+
+<p align="center">
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=My+Name++is++Abenezer+Addisu;I+am++a++Full-Stack-Developer!!&center=true&width=380&height=45"></a>
+</p>
+
+<p align="center">
+  <em>
+   Well, This is ME, Abenezer Addisu, 
+    <b>A passionate Full-Stack Software Developer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp;&nbsp,<br>always <b>
+fascinated</b>
+    about new challenges to 
+    <b>grow </b> and 
+    <b>excel</b>&nbsp
+  </em> 
+  <br>
+</p> 
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
@@ -25,9 +40,9 @@
 
 - 🌱 Enhancing my full-stack developer skills everyday
 
-- ❤️ I love solving algorithms, and building fun experiments.
+- ❤️ I love solving algorithms, and building fun experiments. 
 
-- 💻 I'm available for hire, and also open to new opportunities
+- 💻 I'm available and also open to new opportunities. <img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
 
 
 
